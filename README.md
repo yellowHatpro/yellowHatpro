@@ -1,4 +1,9 @@
 ### Hi there 👋
+<p align=”center”>
+<a href="https://www.linkedin.com/in/ashutosh-aswal-785101203/">
+<img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+</a>
+</p>
 
 <!--
 **yellowHatpro/yellowHatpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
