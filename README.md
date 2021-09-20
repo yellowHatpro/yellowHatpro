@@ -1,5 +1,24 @@
-### Hi there👋
-I am Ashutosh Aswal ,a sophomore from PEC University of Technology , Chandigarh.
+### Hi there 👋            <p> ![](https://visitor-badge.laobi.icu/badge?page_id=yellowHatpro.yellowHatpro) </p>    
+
+
+<h1> I am Ashutosh Aswal :v: , a sophomore from PEC University of Technology 🎓, Chandigarh. </h1>
+<br>
+<p>
+:electron: I like exploring different domains of knowledge . Here to learn, explore and help fellow geeks.
+</p>
+ Also , I like Competitive Programming , here are my stats on Codechef and Codeforces👨‍💻 📈.  
+ 
+ <a href="https://www.codechef.com/users/ashutosh3119"> ![Badge](https://cp-logo.vercel.app/codechef/Ashutosh3119)</a>  <a href="https://codeforces.com/profile/Ashu3119"> ![Badge](https://cp-logo.vercel.app/codeforces/Ashu3119)  </a>
+
+<h1> Stats 📊 </h1>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yellowHatpro&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yellowHatpro&theme=tokyonight)
+
+
+<h2>Social 🔗 </h2>
+
 <p>
   <span>
 <a href="https://www.linkedin.com/in/ashutosh-aswal-785101203">
@@ -12,8 +31,4 @@ I am Ashutosh Aswal ,a sophomore from PEC University of Technology , Chandigarh.
 </a>
   </span>
 </p>
-<div>
-
-
-  </div>
 
