@@ -15,7 +15,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yellowHatpro&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yellowHatpro&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yellowhatpro&theme=tokyonight)
 
 
 <h2>Social 🔗 </h2>
