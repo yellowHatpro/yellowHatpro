@@ -7,6 +7,8 @@
 :electron: I like exploring different domains of knowledge . Here to learn, explore and help fellow geeks.
 </p>
  Also , I like Competitive Programming , here are my stats on Codechef and Codeforces👨‍💻 📈.  
+
+#### ✔️ Currently , I am learning Android Developement in Kotlin 
  
  <a href="https://www.codechef.com/users/ashutosh3119"> ![Badge](https://cp-logo.vercel.app/codechef/Ashutosh3119)</a>  <a href="https://codeforces.com/profile/Ashu3119"> ![Badge](https://cp-logo.vercel.app/codeforces/Ashu3119)  </a>
 
