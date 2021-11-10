@@ -1,5 +1,4 @@
-### Hi there 👋            <p> ![](https://visitor-badge.laobi.icu/badge?page_id=yellowHatpro.yellowHatpro) </p>    
-
+### Hi there 👋       <p> ![](https://visitor-badge.laobi.icu/badge?page_id=yellowHatpro.yellowHatpro) </p>    
 
 <h1> I am Ashutosh Aswal :v: , 🎓 a sophomore pursuing Bachelors in CSE from PEC University of Technology, Chandigarh.  </h1>
 <br>
@@ -17,7 +16,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yellowHatpro&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yellowhatpro&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yellowhatpro&layout=compact&theme=tokyonight)
 
 
 <h2>Social 🔗 </h2>
