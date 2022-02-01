@@ -10,8 +10,6 @@
 
 <h4 align="center"> ✔️ Currently , I am learning Android Developement in Kotlin </h4>
 
-<p align="center"><a href="https://www.codechef.com/users/ashutosh3119"> <img align="center" src="https://cp-logo.vercel.app/codechef/Ashutosh3119"/></a>
-<a href="https://codeforces.com/profile/Ashu3119"> <img align="center" src="https://cp-logo.vercel.app/codeforces/Ashu3119"/>  </a></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yellowhatpro&theme=darkhub" alt="yellowhatpro" /></a> </p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yellowhatpro&theme=dark" alt="yellowhatpro" />
 </p>
