@@ -6,7 +6,6 @@
 <p align="center">
 :electron: I like exploring different domains of knowledge . Here to learn, explore and help fellow geeks.
 </p>
-<p align="center"> Also , I like Competitive Programming , here are my stats on Codechef and Codeforces👨‍💻 📈. </p> 
 
 <h4 align="center"> ✔️ Currently , I am learning Android Developement in Kotlin </h4>
 
