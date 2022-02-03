@@ -15,6 +15,7 @@
  </p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yellowHatpro&show_icons=true&theme=tokyonight" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yellowhatpro&layout=compact&theme=tokyonight" /></p>
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=yellowhatpro&theme=react-dark" alt="yellowhatpro" /></p>
 
 <h2 align="center">Social 🔗 </h2>
 
@@ -30,6 +31,8 @@
 </a>
   </span>
 </p>
+
+
 
 
 
