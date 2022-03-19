@@ -1,5 +1,4 @@
 <h1 align="center">Hi there 👋 </h1>   
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yellowhatprot&label=Profile%20views&color=0e75b6&style=flat" alt="yellowhatpro" /> </p>
 
 <h1 align="center"> I am Ashutosh Aswal :v: , 🎓 a sophomore pursuing Bachelors in CSE from PEC University of Technology, Chandigarh.  </h1>
 <br>
