@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 </h1>   
 
-<h1 align="center"> I am Ashutosh Aswal :v: , 🎓 a sophomore pursuing Bachelors in CSE from PEC University of Technology, Chandigarh.  </h1>
+<h1 align="center"> I am Ashutosh Aswal :v: , 🎓 a junior pursuing Bachelors in CSE from PEC University of Technology, Chandigarh.  </h1>
 <br>
 <p align="center">
 :electron: I like exploring different domains of knowledge . Here to learn, explore and help fellow geeks.
