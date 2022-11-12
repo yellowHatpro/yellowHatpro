@@ -1,12 +1,16 @@
 <h1 align="center">Hi there 👋 </h1>   
 
 <h1 align="center"> I am Ashutosh Aswal :v: , 🎓 a junior pursuing Bachelors in CSE from PEC University of Technology, Chandigarh.  </h1>
-<br>
+
 <p align="center">
 :electron: I like exploring different domains of knowledge . Here to learn, explore and help fellow geeks.
 </p>
 
 <h4 align="center"> ✔️ Currently , I am learning Android Developement in Kotlin </h4>
+
+<p align = "center">
+<a href="https://wakatime.com/@4b58986d-0cb8-41bd-bd6b-69c8a30d0a57"><img src="https://wakatime.com/badge/user/4b58986d-0cb8-41bd-bd6b-69c8a30d0a57.svg" alt="Total time coded since Sep 9 2022" /></a>
+ </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yellowhatpro&theme=darkhub&column=4" alt="yellowhatpro" /></a> </p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yellowhatpro&theme=dark" alt="yellowhatpro" />
