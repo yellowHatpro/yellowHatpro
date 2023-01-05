@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Android Developer
 -----------------
 
-I am a developer with a niche in android development. I do have quite an interest in learning and exploring different technologies.
+:electron: I am a developer with a niche in android development. I do have quite an interest in learning and exploring different technologies.
 
 * 🌍  I'm based in Chandigarh,India
 * 🖥️  See my portfolio at [portfolio-yellowhatpro.vercel.app](http://portfolio-yellowhatpro.vercel.app)
