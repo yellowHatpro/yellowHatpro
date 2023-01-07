@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ashutosh Aswal
 ======================================================================================================================================
 
-Android Developer
+Talks about android developement and anime (≧∇≦)ﾉ 
 -----------------
 
 :electron: I am a developer with a niche in android development. I do have quite an interest in learning and exploring different technologies.
