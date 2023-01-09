@@ -9,7 +9,7 @@ Talks about android developement and anime (≧∇≦)ﾉ
 * 🌍  I'm based in Chandigarh,India
 * 🖥️  See my portfolio at [portfolio-yellowhatpro.vercel.app](http://portfolio-yellowhatpro.vercel.app)
 * ✉️  You can contact me at [yellowhatpro3119@gmail.com](mailto:yellowhatpro3119@gmail.com)
-* 🚀  I'm currently working on [Portfolio site](http://github.com/yellowHatpro/Portfolio)
+* 🚀  I'm currently working on [YADA](http://github.com/ken1000minus7/YADA)
 * 🧠  I'm learning Continuous Integration using GitHub Actions
 * 🤝  I'm open to collaborating on Android Projects
 
