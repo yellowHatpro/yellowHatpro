@@ -7,7 +7,7 @@ Talks about android developement and anime (≧∇≦)ﾉ
 :electron: I am a developer with a niche in android development. I do have quite an interest in learning and exploring different technologies.
 
 * 🌍  I'm based in Chandigarh,India
-* 🖥️  See my portfolio at [portfolio-yellowhatpro.vercel.app](http://portfolio-yellowhatpro.vercel.app)
+* 🖥️  See my portfolio at [portfolio-yellowhatpro.vercel.app](http://yellowhatpro.vercel.app)
 * ✉️  You can contact me at [yellowhatpro3119@gmail.com](mailto:yellowhatpro3119@gmail.com)
 * 🌲  Visit my Linktree at [linktr.ee/yellowhatpro](https://linktr.ee/yellowhatpro)
 * 🚀  I'm currently focusing on Competitive Programming 🚀
