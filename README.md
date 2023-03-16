@@ -42,7 +42,7 @@ Talks about Android, Kotlin and anime.
 ### Socials
 
 <p align="left"> <a href="https://www.dev.to/yellowhatpro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" width="60" height="60" /></a>
-  <a href="https://discord.com/users/Ashu#2592" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="60" height="60" /></a>
+  <a href="https://discord.com/users/787332879054536704" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="60" height="60" /></a>
   <a href="http://www.instagram.com/_aashu_aswal_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="60" height="60" /></a> 
   <a href="https://www.linkedin.com/in/ashutoshaswal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="60" height="60" /></a>
   <a href="https://www.polywork.com/yellowhatpro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="60" height="60" /></a> 
