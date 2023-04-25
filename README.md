@@ -66,6 +66,6 @@ Talks about Android, Kotlin and anime.
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yellowhatpro&theme=darkhub&column=4" alt="yellowhatpro" /></a> </p>
 <p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yellowhatpro&theme=dark" alt="yellowhatpro" /></p>
 <p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yellowHatpro&show_icons=true&theme=tokyonight&include_all_commits=true" /></p>
-<p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yellowhatpro&layout=compact&theme=tokyonight&hide=css&langs_count=8" /></p>
+<p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yellowhatpro&layout=compact&theme=tokyonight&hide=css,Jupyter+Notebook,CMake&langs_count=6" /></p>
 <p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yellowhatpro&layout=compact&theme=tokyonight" /></p>
 <a href="http://www.github.com/yellowhatpro"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=yellowhatpro&bg_color=181824&color=14b8a6&line=a855f7&point=14b8a6&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
