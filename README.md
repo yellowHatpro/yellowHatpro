@@ -60,7 +60,7 @@ Talks about Android, Kotlin and anime.
 
 ### Stats
 
-<a href="https://wakatime.com/@4b58986d-0cb8-41bd-bd6b-69c8a30d0a57"><img src="https://wakatime.com/badge/user/4b58986d-0cb8-41bd-bd6b-69c8a30d0a57.svg" alt="Total time coded since Sep 9 2022" /></a>
+<p> <h6> Since Sep 9, 2022 </h6> <a href="https://wakatime.com/@4b58986d-0cb8-41bd-bd6b-69c8a30d0a57"><img src="https://wakatime.com/badge/user/4b58986d-0cb8-41bd-bd6b-69c8a30d0a57.svg" alt="Total time coded since Sep 9 2022" /></a> </p>
 
 
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yellowhatpro&theme=darkhub&column=4" alt="yellowhatpro" /></a> </p>
