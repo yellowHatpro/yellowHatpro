@@ -10,7 +10,7 @@ Talks about Android, Kotlin and anime.
 * 🖥️  See my portfolio at [yellowhatpro.vercel.app](http://yellowhatpro.vercel.app)
 * ✉️  You can contact me at [yellowhatpro3119@gmail.com](mailto:yellowhatpro3119@gmail.com)
 * 🌲  Visit my Linktree at [linktr.ee/yellowhatpro](https://linktr.ee/yellowhatpro)
-* 🚀  I'm currently focusing on Competitive Programming 🚀
+* 🚀  I'm currently focusing on Open Source 🚀
 * 🧠  I'm learning Data Structures and Algorithms 
 * 🤝  I'm open to collaborating on Android Projects
 
