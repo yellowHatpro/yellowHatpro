@@ -1,18 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ashutosh Aswal
 ======================================================================================================================================
 
-Talks about Android, Kotlin and anime. 
------------------
+Building ➡️ Oh wait I should try this ➡️ Repeat
 
-:electron: I am a developer with a niche in android development. I do have quite an interest in learning and exploring different technologies.
 
-* 🌍  I'm based in Chandigarh,India
+:electron: Pursuing Bachelors in CSE
+
+* 🇮🇳  INDy developer  
 * 🖥️  See my portfolio at [yellowhatpro.vercel.app](http://yellowhatpro.vercel.app)
-* ✉️  You can contact me at [yellowhatpro3119@gmail.com](mailto:yellowhatpro3119@gmail.com)
-* 🌲  Visit my Linktree at [linktr.ee/yellowhatpro](https://linktr.ee/yellowhatpro)
-* 🚀  I'm currently focusing on Open Source 🚀
-* 🧠  I'm learning Data Structures and Algorithms 
-* 🤝  I'm open to collaborating on Android Projects
+* 💢  Why'd you skip the effin portfolio ヽ(#`Д´)ﾉ ? VISIT NOW 👉🏻 [here](http://yellowhatpro.vercel.app) 👈🏻
+* ✉️  Great 😄, now send me referral/job offer at: [yellowhatpro3119@gmail.com](mailto:yellowhatpro3119@gmail.com)
+* 🤔  Oh you are social? Visit my Linktree 🌲 at [linktr.ee/yellowhatpro](https://linktr.ee/yellowhatpro)
+* 🤝  Open to collaborate on cool stuff, ping me if you are building something 😋
 
 <!-- 
 ### Skills
@@ -63,9 +62,8 @@ Talks about Android, Kotlin and anime.
 
 -->
  
-### Stats
-
-<p> <h6> Since Sep 9, 2022 </h6> <a href="https://wakatime.com/@4b58986d-0cb8-41bd-bd6b-69c8a30d0a57"><img src="https://wakatime.com/badge/user/4b58986d-0cb8-41bd-bd6b-69c8a30d0a57.svg" alt="Total time coded since Sep 9 2022" /></a> </p>
+### USELESS STATS
+<p> <h6> Wakatiming since Sep 9, 2022 </h6> <a href="https://wakatime.com/@4b58986d-0cb8-41bd-bd6b-69c8a30d0a57"><img src="https://wakatime.com/badge/user/4b58986d-0cb8-41bd-bd6b-69c8a30d0a57.svg" alt="Total time coded since Sep 9 2022" /></a> </p>
 
 
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yellowhatpro&theme=darkhub&column=4" alt="yellowhatpro" /></a> </p>
