@@ -4,14 +4,27 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Building ➡️ Oh wait I should try this ➡️ Repeat
 
 
-:electron: Pursuing Bachelors in CSE
+🎓️ Pursuing Bachelors in CSE <br>
+🖥️ Visit my portfolio at [yellowhatpro.vercel.app](http://yellowhatpro.vercel.app) <br>
+🤝 Open for Software Dev roles
 
-* 🇮🇳  INDy developer  
-* 🖥️  See my portfolio at [yellowhatpro.vercel.app](http://yellowhatpro.vercel.app)
-* 💢  Why'd you skip the effin portfolio ヽ(#`Д´)ﾉ ? VISIT NOW 👉🏻 [here](http://yellowhatpro.vercel.app) 👈🏻
-* ✉️  Great 😄, now send me referral/job offer at: [yellowhatpro3119@gmail.com](mailto:yellowhatpro3119@gmail.com)
-* 🤔  Oh you are social? Visit my Linktree 🌲 at [linktr.ee/yellowhatpro](https://linktr.ee/yellowhatpro)
-* 🤝  Open to collaborate on cool stuff, ping me if you are building something 😋
+### SOCIALS
+<p align="left">
+  <a href="https://www.linkedin.com/in/ashutoshaswal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="60" height="60" /></a>
+<a href="https://www.leetcode.com/yellowhatpro" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yellowhatpro" height="60" width="60" /></a>
+<a href="https://www.twitter.com/yellowhatpro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="60" height="60" /></a>
+<a href="https://www.dev.to/yellowhatpro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" width="60" height="60" /></a>
+  <a href="https://discord.com/users/787332879054536704" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="60" height="60" /></a>
+  <a href="http://www.instagram.com/_aashu_aswal_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="60" height="60" /></a> 
+  <a href="https://www.polywork.com/yellowhatpro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="60" height="60" /></a> 
+  <a href="https://stackoverflow.com/users/15084244" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15084244" height="60" width="60" /></a>
+  <a href="https://kaggle.com/yellowhatpro" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yellowhatpro" height="60" width="60" /></a>
+<a href="https://www.hackerrank.com/yellowhatpro" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yellowhatpro" height="60" width="60" /></a> 
+<a href="https://codeforces.com/profile/yellowhatpro" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yellowhatpro" height="60" width="60" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/yellowhatpro/profile" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yellowhatpro/profile" height="60" width="60" /></a>
+  <a href="https://medium.com/@yellowhatpro" target="blank"><img src="https://cdn.worldvectorlogo.com/logos/medium-m-2.svg" alt="@yellowhatpro" height="60" width="60" /></a>  
+  <a href="https://www.gitlab.com/yellowhatpro" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="60" height="60" /></a>
+</p>
 
 <!-- 
 ### Skills
@@ -41,34 +54,16 @@ Building ➡️ Oh wait I should try this ➡️ Repeat
  <a href="https://gradle.org"><img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" width="66" height="66" alt ="gradle"></a>
  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="60" height="60"/> </a><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/git.gif" alt="git" width="110" height="60"/> </a>
 </p>
-
-### Socials
-
-<p align="left"> <a href="https://www.dev.to/yellowhatpro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" width="60" height="60" /></a>
-  <a href="https://discord.com/users/787332879054536704" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="60" height="60" /></a>
-  <a href="http://www.instagram.com/_aashu_aswal_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="60" height="60" /></a> 
-  <a href="https://www.linkedin.com/in/ashutoshaswal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="60" height="60" /></a>
-  <a href="https://www.polywork.com/yellowhatpro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="60" height="60" /></a> 
-  <a href="https://www.twitter.com/yellowhatpro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="60" height="60" /></a>
-  <a href="https://stackoverflow.com/users/15084244" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15084244" height="60" width="60" /></a>
-  <a href="https://kaggle.com/yellowhatpro" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yellowhatpro" height="60" width="60" /></a>
-<a href="https://www.hackerrank.com/yellowhatpro" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yellowhatpro" height="60" width="60" /></a> 
-<a href="https://codeforces.com/profile/yellowhatpro" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yellowhatpro" height="60" width="60" /></a>
-<a href="https://www.leetcode.com/yellowhatpro" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yellowhatpro" height="60" width="60" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/yellowhatpro/profile" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yellowhatpro/profile" height="60" width="60" /></a>
-  <a href="https://medium.com/@yellowhatpro" target="blank"><img src="https://cdn.worldvectorlogo.com/logos/medium-m-2.svg" alt="@yellowhatpro" height="60" width="60" /></a>  
-  <a href="https://www.gitlab.com/yellowhatpro" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="60" height="60" /></a>
-</p>
-
 -->
  
 ### USELESS STATS
 <p> <h6> Wakatiming since Sep 9, 2022 </h6> <a href="https://wakatime.com/@4b58986d-0cb8-41bd-bd6b-69c8a30d0a57"><img src="https://wakatime.com/badge/user/4b58986d-0cb8-41bd-bd6b-69c8a30d0a57.svg" alt="Total time coded since Sep 9 2022" /></a> </p>
 
 
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yellowhatpro&theme=darkhub&column=4" alt="yellowhatpro" /></a> </p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yellowhatpro&theme=darkhub&column=5" alt="yellowhatpro" /></a> </p>
 <p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yellowhatpro&theme=dark" alt="yellowhatpro" /></p>
-<p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yellowHatpro&show_icons=true&theme=tokyonight&include_all_commits=true" /></p>
+<p ><img align="center" src="https://github-readme-stats.vercel.app/api?username=yellowHatpro&show_icons=true&theme=tokyonight&include_all_commits=true" /></p>
+<!--
 <p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yellowhatpro&layout=compact&theme=tokyonight&hide=css,Jupyter+Notebook,CMake&langs_count=6" /></p>
 <p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yellowhatpro&layout=compact&theme=tokyonight" /></p>
 <!--
