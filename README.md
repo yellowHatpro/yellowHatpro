@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Building ➡️ Oh wait I should try this ➡️ Repeat
 
 
-🎓️ Pursuing Bachelors in CSE <br>
+🎓️ Computer Science Grad '24
 🖥️ Visit my portfolio at [yellowhatpro.vercel.app](http://yellowhatpro.vercel.app) <br>
 🤝 Open for Software Dev roles
 
