@@ -1,12 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ashutosh Aswal
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <br> My name is Ashutosh Aswal
 ======================================================================================================================================
 
 Building ➡️ Oh wait I should try this ➡️ Repeat
 
 
-🎓️ Computer Science Grad '24
-🖥️ Visit my portfolio at [yellowhatpro.vercel.app](http://yellowhatpro.vercel.app) <br>
+🎓️ Computer Science Grad '24 <br>
+🖥️ [Portfolio Website](http://yellowhatpro.vercel.app) <br>
 🤝 Open for Software Dev roles
+
 
 ### SOCIALS
 <p align="left">
