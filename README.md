@@ -5,7 +5,7 @@ Building ➡️ Oh wait I should try this ➡️ Repeat
 
 
 🎓️ Computer Science Grad '24 <br>
-🖥️ [I cook here](http://yellowhatpro.tech) <br>
+🖥️ [yellowhatpro.tech](http://yellowhatpro.tech) <br>
 🤝 CS nerd, open for collaboration
 
 
